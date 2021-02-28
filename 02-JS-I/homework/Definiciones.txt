@@ -1,0 +1,5 @@
+*	Variables: una variables es un valor, cualquiera sea, que se puede guardar y te puede servir en otro momento.
+*	Strings: un string es igual a una cadena de bicicleta solo que en este caso cada eslabón se llama carácter y cada carácter puede ser una letra, un número, etc.
+*	Funciones: es una formula que tiene una entrada (lo que vos le pones) y una salida (el resultado de la función) y te permite hacer cosas por vos de manera más rápida. Por ejemplo sumar, restar, dividir, etc.
+*   Declaraciones if: las declaraciones if te dan un resultado solo si la condición que vos le pones se cumple sino te van a dar otro resultado.   
+*   Valores booleanos: los valores booleanos siempre toman un valor extremo al otro, por ejemplo si o no, verdadero o falso, 0 o 1, etc. 
